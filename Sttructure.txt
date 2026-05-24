@@ -1,0 +1,50 @@
+src/main/java/com/app/
+│
+├── config/
+│   ├── SecurityConfig.java
+│   ├── JwtFilter.java
+│   └── CorsConfig.java
+│
+├── auth/
+│   ├── AuthController.java
+│   ├── AuthService.java
+│   ├── JwtService.java
+│   └── dto/
+│       ├── LoginRequest.java
+│       └── AuthResponse.java
+│
+├── user/
+│   ├── UserController.java
+│   ├── UserService.java
+│   ├── UserRepository.java
+│   ├── User.java
+│   └── dto/
+│       ├── CreateUserRequest.java
+│       └── UserResponse.java
+│
+├── video/
+│   ├── VideoController.java
+│   ├── VideoService.java
+│   ├── VideoRepository.java
+│   ├── Video.java
+│   └── dto/
+│       ├── CreateVideoRequest.java
+│       └── VideoResponse.java
+│
+├── rating/
+│   ├── RatingController.java
+│   ├── RatingService.java
+│   ├── RatingRepository.java
+│   ├── Rating.java
+│   └── dto/
+│       ├── CreateRatingRequest.java
+│       └── RatingResponse.java
+│
+├── common/
+│   ├── exception/
+│   │   ├── GlobalExceptionHandler.java
+│   │   └── NotFoundException.java
+│   └── util/
+│
+└── Application.java
+-

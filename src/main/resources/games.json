@@ -1,0 +1,408 @@
+[
+  {
+    "name": "Elden Ring",
+    "averageRating": 5.0,
+    "categories": ["SOULS_LIKE", "ADVENTURE"],
+    "timeAdded": "2025-02-01T10:00:00",
+    "picURL": "https://example.com/eldenring.jpg",
+    "bio": "Massive open-world Souls experience.",
+    "reviewerNumber": 5000
+  },
+  {
+    "name": "Dark Souls Remastered",
+    "averageRating": 4.7,
+    "categories": ["SOULS_LIKE"],
+    "timeAdded": "2024-01-01T10:00:00",
+    "picURL": "https://example.com/ds1.jpg",
+    "bio": "The classic that defined the genre.",
+    "reviewerNumber": 1800
+  },
+  {
+    "name": "Dark Souls II",
+    "averageRating": 4.3,
+    "categories": ["SOULS_LIKE"],
+    "timeAdded": "2024-02-01T10:00:00",
+    "picURL": "https://example.com/ds2.jpg",
+    "bio": "A divisive but rich Souls experience.",
+    "reviewerNumber": 1400
+  },
+  {
+    "name": "Dark Souls III",
+    "averageRating": 4.8,
+    "categories": ["SOULS_LIKE"],
+    "timeAdded": "2024-03-01T10:00:00",
+    "picURL": "https://example.com/ds3.jpg",
+    "bio": "Fast-paced and refined Souls combat.",
+    "reviewerNumber": 2200
+  },
+  {
+    "name": "Bloodborne",
+    "averageRating": 4.9,
+    "categories": ["SOULS_LIKE"],
+    "timeAdded": "2024-04-01T10:00:00",
+    "picURL": "https://example.com/bloodborne.jpg",
+    "bio": "Gothic horror meets aggressive combat.",
+    "reviewerNumber": 2600
+  },
+  {
+    "name": "Sekiro: Shadows Die Twice",
+    "averageRating": 4.9,
+    "categories": ["SOULS_LIKE"],
+    "timeAdded": "2024-05-01T10:00:00",
+    "picURL": "https://example.com/sekiro.jpg",
+    "bio": "Precision sword combat.",
+    "reviewerNumber": 2400
+  },
+  {
+    "name": "Nioh",
+    "averageRating": 4.4,
+    "categories": ["SOULS_LIKE"],
+    "timeAdded": "2024-06-01T10:00:00",
+    "picURL": "https://example.com/nioh.jpg",
+    "bio": "Samurai Souls-like.",
+    "reviewerNumber": 1500
+  },
+  {
+    "name": "Nioh 2",
+    "averageRating": 4.6,
+    "categories": ["SOULS_LIKE"],
+    "timeAdded": "2024-07-01T10:00:00",
+    "picURL": "https://example.com/nioh2.jpg",
+    "bio": "Expanded combat system.",
+    "reviewerNumber": 1700
+  },
+  {
+    "name": "Lies of P",
+    "averageRating": 4.5,
+    "categories": ["SOULS_LIKE"],
+    "timeAdded": "2024-08-01T10:00:00",
+    "picURL": "https://example.com/liesofp.jpg",
+    "bio": "Dark Pinocchio tale.",
+    "reviewerNumber": 900
+  },
+  {
+    "name": "Mortal Shell",
+    "averageRating": 4.0,
+    "categories": ["SOULS_LIKE"],
+    "timeAdded": "2024-09-01T10:00:00",
+    "picURL": "https://example.com/mortalshell.jpg",
+    "bio": "Indie Souls-like.",
+    "reviewerNumber": 800
+  },
+  {
+    "name": "Wo Long: Fallen Dynasty",
+    "averageRating": 4.2,
+    "categories": ["SOULS_LIKE"],
+    "timeAdded": "2024-10-01T10:00:00",
+    "picURL": "https://example.com/wolong.jpg",
+    "bio": "Fast-paced action RPG.",
+    "reviewerNumber": 1100
+  },
+  {
+    "name": "The Surge",
+    "averageRating": 3.9,
+    "categories": ["SOULS_LIKE"],
+    "timeAdded": "2024-11-01T10:00:00",
+    "picURL": "https://example.com/surge.jpg",
+    "bio": "Sci-fi Souls-like.",
+    "reviewerNumber": 600
+  },
+
+  {
+    "name": "DOOM Eternal",
+    "averageRating": 4.8,
+    "categories": ["SHOOTER"],
+    "timeAdded": "2024-01-01T10:00:00",
+    "picURL": "https://example.com/doom.jpg",
+    "bio": "High-speed demon slaying.",
+    "reviewerNumber": 2100
+  },
+  {
+    "name": "Call of Duty: Modern Warfare",
+    "averageRating": 4.5,
+    "categories": ["SHOOTER"],
+    "timeAdded": "2024-02-01T10:00:00",
+    "picURL": "https://example.com/cod.jpg",
+    "bio": "Fast-paced FPS.",
+    "reviewerNumber": 3000
+  },
+  {
+    "name": "Battlefield 1",
+    "averageRating": 4.4,
+    "categories": ["SHOOTER"],
+    "timeAdded": "2024-03-01T10:00:00",
+    "picURL": "https://example.com/bf1.jpg",
+    "bio": "WWI shooter.",
+    "reviewerNumber": 1800
+  },
+  {
+    "name": "Halo Infinite",
+    "averageRating": 4.3,
+    "categories": ["SHOOTER"],
+    "timeAdded": "2024-04-01T10:00:00",
+    "picURL": "https://example.com/halo.jpg",
+    "bio": "Sci-fi FPS.",
+    "reviewerNumber": 1900
+  },
+  {
+    "name": "Counter-Strike 2",
+    "averageRating": 4.6,
+    "categories": ["SHOOTER"],
+    "timeAdded": "2024-05-01T10:00:00",
+    "picURL": "https://example.com/cs2.jpg",
+    "bio": "Competitive shooter.",
+    "reviewerNumber": 5000
+  },
+  {
+    "name": "Valorant",
+    "averageRating": 4.5,
+    "categories": ["SHOOTER"],
+    "timeAdded": "2024-06-01T10:00:00",
+    "picURL": "https://example.com/valorant.jpg",
+    "bio": "Hero-based shooter.",
+    "reviewerNumber": 4500
+  },
+  {
+    "name": "Overwatch 2",
+    "averageRating": 4.2,
+    "categories": ["SHOOTER"],
+    "timeAdded": "2024-07-01T10:00:00",
+    "picURL": "https://example.com/ow2.jpg",
+    "bio": "Team-based combat.",
+    "reviewerNumber": 3500
+  },
+  {
+    "name": "Apex Legends",
+    "averageRating": 4.4,
+    "categories": ["SHOOTER"],
+    "timeAdded": "2024-08-01T10:00:00",
+    "picURL": "https://example.com/apex.jpg",
+    "bio": "Battle royale.",
+    "reviewerNumber": 4100
+  },
+  {
+    "name": "Rainbow Six Siege",
+    "averageRating": 4.6,
+    "categories": ["SHOOTER"],
+    "timeAdded": "2024-09-01T10:00:00",
+    "picURL": "https://example.com/r6.jpg",
+    "bio": "Tactical shooter.",
+    "reviewerNumber": 4200
+  },
+  {
+    "name": "Titanfall 2",
+    "averageRating": 4.9,
+    "categories": ["SHOOTER"],
+    "timeAdded": "2024-10-01T10:00:00",
+    "picURL": "https://example.com/titanfall2.jpg",
+    "bio": "Best FPS campaign.",
+    "reviewerNumber": 2300
+  },
+  {
+    "name": "PUBG: Battlegrounds",
+    "averageRating": 4.1,
+    "categories": ["SHOOTER"],
+    "timeAdded": "2024-11-01T10:00:00",
+    "picURL": "https://example.com/pubg.jpg",
+    "bio": "Realistic battle royale.",
+    "reviewerNumber": 3900
+  },
+  {
+    "name": "Far Cry 5",
+    "averageRating": 4.3,
+    "categories": ["SHOOTER"],
+    "timeAdded": "2024-12-01T10:00:00",
+    "picURL": "https://example.com/farcry5.jpg",
+    "bio": "Open-world shooter.",
+    "reviewerNumber": 2000
+  },
+  {
+    "name": "Portal 2",
+    "averageRating": 4.9,
+    "categories": ["PUZZLE"],
+    "timeAdded": "2024-01-05T10:00:00",
+    "picURL": "https://example.com/portal2.jpg",
+    "bio": "Physics-based puzzle masterpiece.",
+    "reviewerNumber": 3200
+  },
+  {
+    "name": "The Witness",
+    "averageRating": 4.6,
+    "categories": ["PUZZLE"],
+    "timeAdded": "2024-02-10T10:00:00",
+    "picURL": "https://example.com/witness.jpg",
+    "bio": "Open-world puzzle exploration.",
+    "reviewerNumber": 1400
+  },
+  {
+    "name": "Tetris Effect",
+    "averageRating": 4.8,
+    "categories": ["PUZZLE"],
+    "timeAdded": "2024-03-12T10:00:00",
+    "picURL": "https://example.com/tetris.jpg",
+    "bio": "Classic puzzle with modern visuals.",
+    "reviewerNumber": 2800
+  },
+  {
+    "name": "Baba Is You",
+    "averageRating": 4.7,
+    "categories": ["PUZZLE"],
+    "timeAdded": "2024-04-15T10:00:00",
+    "picURL": "https://example.com/baba.jpg",
+    "bio": "Rule-breaking puzzle mechanics.",
+    "reviewerNumber": 900
+  },
+  {
+    "name": "Inside",
+    "averageRating": 4.6,
+    "categories": ["PUZZLE", "STORY"],
+    "timeAdded": "2024-05-20T10:00:00",
+    "picURL": "https://example.com/inside.jpg",
+    "bio": "Dark atmospheric puzzles.",
+    "reviewerNumber": 2100
+  },
+  {
+    "name": "Limbo",
+    "averageRating": 4.5,
+    "categories": ["PUZZLE"],
+    "timeAdded": "2024-06-18T10:00:00",
+    "picURL": "https://example.com/limbo.jpg",
+    "bio": "Minimalist puzzle platformer.",
+    "reviewerNumber": 1900
+  },
+  {
+    "name": "Human: Fall Flat",
+    "averageRating": 4.3,
+    "categories": ["PUZZLE"],
+    "timeAdded": "2024-07-22T10:00:00",
+    "picURL": "https://example.com/human.jpg",
+    "bio": "Physics-based co-op puzzles.",
+    "reviewerNumber": 2500
+  },
+  {
+    "name": "Candy Crush Saga",
+    "averageRating": 3.9,
+    "categories": ["PUZZLE", "KIDS"],
+    "timeAdded": "2024-08-01T10:00:00",
+    "picURL": "https://example.com/candy.jpg",
+    "bio": "Match-three puzzle gameplay.",
+    "reviewerNumber": 5400
+  },
+  {
+    "name": "The Last of Us Part II",
+    "averageRating": 4.8,
+    "categories": ["STORY", "ADVENTURE"],
+    "timeAdded": "2024-01-01T10:00:00",
+    "picURL": "https://example.com/tlou2.jpg",
+    "bio": "Emotional narrative-driven game.",
+    "reviewerNumber": 4000
+  },
+  {
+    "name": "Red Dead Redemption 2",
+    "averageRating": 5.0,
+    "categories": ["STORY", "ADVENTURE"],
+    "timeAdded": "2024-02-01T10:00:00",
+    "picURL": "https://example.com/rdr2.jpg",
+    "bio": "Deep story in an open world.",
+    "reviewerNumber": 5000
+  },
+  {
+    "name": "Life is Strange",
+    "averageRating": 4.5,
+    "categories": ["STORY"],
+    "timeAdded": "2024-03-01T10:00:00",
+    "picURL": "https://example.com/lis.jpg",
+    "bio": "Choice-based storytelling.",
+    "reviewerNumber": 2200
+  },
+  {
+    "name": "Heavy Rain",
+    "averageRating": 4.3,
+    "categories": ["STORY"],
+    "timeAdded": "2024-04-01T10:00:00",
+    "picURL": "https://example.com/heavyrain.jpg",
+    "bio": "Interactive drama.",
+    "reviewerNumber": 1500
+  },
+  {
+    "name": "Beyond: Two Souls",
+    "averageRating": 4.2,
+    "categories": ["STORY"],
+    "timeAdded": "2024-05-01T10:00:00",
+    "picURL": "https://example.com/beyond.jpg",
+    "bio": "Supernatural narrative.",
+    "reviewerNumber": 1300
+  },
+  {
+    "name": "Firewatch",
+    "averageRating": 4.6,
+    "categories": ["STORY"],
+    "timeAdded": "2024-06-01T10:00:00",
+    "picURL": "https://example.com/firewatch.jpg",
+    "bio": "Story-driven exploration.",
+    "reviewerNumber": 1700
+  },
+  {
+    "name": "What Remains of Edith Finch",
+    "averageRating": 4.7,
+    "categories": ["STORY"],
+    "timeAdded": "2024-07-01T10:00:00",
+    "picURL": "https://example.com/edith.jpg",
+    "bio": "Short but powerful narratives.",
+    "reviewerNumber": 1600
+  },
+  {
+    "name": "Detroit: Become Human",
+    "averageRating": 4.7,
+    "categories": ["STORY"],
+    "timeAdded": "2024-08-01T10:00:00",
+    "picURL": "https://example.com/detroit.jpg",
+    "bio": "Branching choices and consequences.",
+    "reviewerNumber": 2100
+  },
+  {
+    "name": "Minecraft",
+    "averageRating": 4.8,
+    "categories": ["KIDS", "SIM"],
+    "timeAdded": "2024-03-10T10:00:00",
+    "picURL": "https://example.com/minecraft.jpg",
+    "bio": "Creative sandbox building.",
+    "reviewerNumber": 6000
+  },
+  {
+    "name": "Roblox",
+    "averageRating": 4.2,
+    "categories": ["KIDS"],
+    "timeAdded": "2024-04-12T10:00:00",
+    "picURL": "https://example.com/roblox.jpg",
+    "bio": "User-generated game platform.",
+    "reviewerNumber": 5800
+  },
+  {
+    "name": "Lego Star Wars: The Skywalker Saga",
+    "averageRating": 4.4,
+    "categories": ["KIDS", "ADVENTURE"],
+    "timeAdded": "2024-05-15T10:00:00",
+    "picURL": "https://example.com/lego.jpg",
+    "bio": "Family-friendly action adventure.",
+    "reviewerNumber": 2000
+  },
+  {
+    "name": "Uncharted 4",
+    "averageRating": 4.8,
+    "categories": ["ADVENTURE"],
+    "timeAdded": "2024-06-10T10:00:00",
+    "picURL": "https://example.com/uncharted4.jpg",
+    "bio": "Cinematic treasure hunting.",
+    "reviewerNumber": 3000
+  },
+  {
+    "name": "Horizon Zero Dawn",
+    "averageRating": 4.7,
+    "categories": ["ADVENTURE"],
+    "timeAdded": "2024-07-20T10:00:00",
+    "picURL": "https://example.com/horizon.jpg",
+    "bio": "Open-world robotic wildlife.",
+    "reviewerNumber": 2800
+  }
+]
